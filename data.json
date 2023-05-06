@@ -1,0 +1,21 @@
+{
+    "locations": [
+      {
+        "name": "Location A",
+        "coordinates": { "lat": 37.7749, "lng": -122.4194 },
+        "vehicles": [
+          { "type": "Car", "time": "30 min", "distance": "5 miles" },
+          { "type": "Bicycle", "time": "1.5 hours", "distance": "5 miles" }
+        ]
+      },
+      {
+        "name": "Location B",
+        "coordinates": { "lat": 37.8049, "lng": -122.4494 },
+        "vehicles": [
+          { "type": "Car", "time": "45 min", "distance": "10 miles" },
+          { "type": "Bicycle", "time": "2.5 hours", "distance": "10 miles" }
+        ]
+      }
+    ]
+  }
+  
